@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Vetores {
@@ -44,6 +45,8 @@ public class Vetores {
 		System.out.println("O total de consumo foi de R$" + total);
 		
 		leitor.close();
+		
+		ArrayList lista =new ArrayList();
 		
 
 	}
